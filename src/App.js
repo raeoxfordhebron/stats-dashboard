@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import "./styles.css"
 import Sidebar from "./components/Sidebar"
 import Reviews from "./components/Reviews"
 import Average from "./components/Average"

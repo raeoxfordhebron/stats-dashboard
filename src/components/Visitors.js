@@ -1,6 +1,6 @@
 function Visitors(){
     return <>
-    <div>
+    <div class="visitors">
         <h2>Website Visitors</h2>
         <div>821</div>
     </div>
