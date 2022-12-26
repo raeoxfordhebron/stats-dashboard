@@ -15,8 +15,14 @@ code {
 
 .container {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .visitors, .sidebar, .sentiment, .reviews, .average {
   background-color: lightgray;
+  border: 1px solid green;
+}
+
+.visitors {
+  width: 75%;
 }
