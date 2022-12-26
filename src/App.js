@@ -9,11 +9,13 @@ import Visitors from "./components/Visitors"
 
 function App() {
   return (<>
+  <div className="container">
     <Sidebar/>
     <Reviews/>
     <Average/>
     <Sentiment/>
     <Visitors/>
+    </div>
     </>
   );
 }

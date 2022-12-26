@@ -1,6 +1,6 @@
 function Average(){
     return <>
-    <div>
+    <div className="average">
         <h2>Average Rating</h2>
         <div>4.6</div>
     </div>

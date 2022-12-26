@@ -1,6 +1,6 @@
 function Sentiment(){
     return <>
-    <div>
+    <div className="sentiment">
         <h2>Sentiment Analysis</h2>
         <div>960</div>
         <div>122</div>
